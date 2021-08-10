@@ -1,3 +1,3 @@
 - CS Student at Aalto university 
-- I'll have some scripts here which are old and not well made but it's something ;-p
+- Along with real projects I'll have some scripts here which are old and not well made but it's something ;-p
 - Interested in creating new something new :)
