@@ -1,3 +1,3 @@
-- CS Student at Aalto university 
-- Along with real projects I'll have some _old_( == poor quality code I dont have interest to clean up) scripts here
+- CS Student
+- Along with real projects (if not private) I'll have some _old_( == poor quality code I dont have interest to clean up) scripts here
 - Interested in creating something new :)
