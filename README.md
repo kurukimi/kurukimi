@@ -1,3 +1,2 @@
 - CS Student
-- Along with real projects (if not private) I'll have some _old_( == poor quality code I dont have interest to clean up) scripts here
 - Interested in creating something new :)
